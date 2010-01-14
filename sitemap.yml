@@ -1,0 +1,35 @@
+ruby:
+    foundation:
+        introduction:
+            arrays:
+                title: Arrays
+            blocks:
+                title: Blocks
+            boolean:
+                title: Boolean and nil
+        control_flow:
+            conditions:
+                title: Conditionals with if and case
+                overwrite: true
+        object_orientation:
+            class_construction:
+                title: Class Construction
+                overwrite: true
+            inheritence_chain:
+                title: The Inheritence Chain
+                overwrite: true
+            object_persistance:
+                title: Object State Persistance
+                overwrite: true
+        modules_and_classes:
+            mixins:
+                title: Adding Behaviour with Mixins            
+        attributes:
+            variable_scope:
+                title: Local & Instance Variables
+                overwrite: true
+            getters_setters:
+                title: Getting & Setting Attributes
+                overwrite: true
+            
+
